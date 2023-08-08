@@ -1,0 +1,29 @@
+---
+title: "Research"
+listing:
+  - id: publications
+    template: ../html/publications.ejs
+    contents: 
+      - "*/index.qmd"
+      - pubs.yaml
+    sort: "date desc"
+    date-format: YYYY
+    fields: [image, date, title, author, publication]
+header-includes: | 
+  <link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+---
+
+See my [CV](../files/cv-wm.pdf) for work in progress and further information.
+
+
+### Publications
+:::{#publications}
+:::
+
+
+
+
+
+
+
+

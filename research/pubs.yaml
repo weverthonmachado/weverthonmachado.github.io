@@ -1,0 +1,20 @@
+- 
+  reference: |
+    Miranda, Pedro, Priscila Koeller, Graziela Ferrero Zucoloto, Weverthon Machado, and Fernanda De Negri. 2020. ‘Aspectos socioeconômicos da Covid-19: o que dizem os dados do Município do Rio de Janeiro?’ Nota Técnica IPEA/DISET, no. 72 (July).
+  date: 2020-07
+  links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://repositorio.ipea.gov.br/bitstream/11058/10155/1/NT_72_Diset_AspecSocioeconCOVID-19RJ.pdf"
+
+- 
+  reference: |
+    Ribeiro, Carlos Antonio Costa, and Weverthon Machado. 2018. ‘Rendimento Do Trabalho Das Esposas e Tendências Da Desigualdade de Renda No Brasil (1992-2014)’. Dados 61 (1): 103–35. [https://doi.org/10.1590/001152582018148](https://doi.org/10.1590/001152582018148).
+  date: 2018-03
+  links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://www.scielo.br/j/dados/a/x5gv43gPkXrkGMwSLQrFw8J/?format=pdf&lang=pt"
+

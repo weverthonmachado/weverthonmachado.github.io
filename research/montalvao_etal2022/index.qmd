@@ -1,0 +1,32 @@
+---
+title: "Stratification in Brazilian higher education"
+date: 2022-04-01
+author:
+  - name: Arnaldo Mont'Alvão
+  - name: Weverthon Machado
+  - name: Carlos A. Costa Ribeiro
+doi: "10.4324/9781003229384-16"
+citation:
+  type: chapter
+  container-title: "Reclaiming Public Universities: Comparative Reflections for Reforms"
+  editor: Manisha Priyam
+reference: | 
+  Mont’Alvao, Arnaldo, Weverthon Machado, and Carlos A. Costa Ribeiro. 2022. ‘Stratification in Brazilian Higher Education’. In Reclaiming Public Universities, by Manisha Priyam, 1st ed., 255–69. Routledge. https://doi.org/10.4324/9781003229384-16.
+google-scholar: true
+links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://doi.org/10.31235/osf.io/twjaq"
+img: "fig.png"
+---
+
+**Abstract**
+
+::: {layout-ncol="2"}
+This chapter examines the stratification of access to higher education in Brazil between 2001 and 2015, a period of marked expansion of the higher education system. It draws on random samples of the Brazilian population to show the increase in the number of enrollments, as well as in the number of students eligible to make the transition to higher education. Coefficients from logistic regression models show the persistent effects of family background on the probability of achieving a college education, but also show decreasing disadvantages for African-Brazilian students. It discusses how shifts in the racial composition of the population vis-à-vis policies to mitigate inequalities of access can account for the increasing probability of African-Brazilian students attending college.
+
+![](fig.png)
+:::
+
+

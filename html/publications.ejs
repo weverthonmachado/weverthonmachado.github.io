@@ -1,0 +1,39 @@
+```{=html}
+<ul style="list-style: none;">
+
+<% for (const item of items) { %>
+<li>
+<div class="quarto-post image-right">
+
+
+<% /* %> COMMENTED out 
+<div class="thumbnail">
+<p><a href="<%= item.path %>"> <img src="<%= item.image %>" class="thumnail-image"> </a></p>
+</div>
+<% */ %>
+
+
+<div class="body">
+<a href="<%- item.path %>">
+<span> <%=item['reference']%> </span>
+</a>
+
+
+<% if(item.links) { %>
+      <div style="display: flex;">
+      <% for (link of item.links) { %>
+      <a href="<%- link.url %>"><div><i class="<%= link.icon %>"></i> <%= link.text %>&nbsp;&nbsp;</div></a>
+      <% } %>
+      </div>
+<% } %>
+</div>
+
+<% } %>
+
+</li>
+</ul>
+
+```
+
+
+

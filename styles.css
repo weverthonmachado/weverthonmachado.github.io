@@ -1,0 +1,10 @@
+/* css styles */
+.publication-reference {
+    background-color: rgba(var(--bs-primary-rgb), 0.05);
+    padding: 0.75em;
+    margin: 1em 0;
+}
+
+ul.project-links {
+        margin-bottom: 0;
+}

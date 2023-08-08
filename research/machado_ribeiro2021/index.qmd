@@ -1,0 +1,27 @@
+---
+title: "The association between spouses’ earnings and trends in income inequality in Brazil (1993 – 2015)"
+date: 2021-01-01
+author:
+  - name: Weverthon Machado
+  - name: Carlos Costa Ribeiro
+doi: "10.1016/j.alcr.2021.100413"
+reference: | 
+ Machado, Weverthon, and Carlos Costa Ribeiro. 2021. ‘The Association between Spouses’ Earnings and Trends in Income Inequality in Brazil (1993 – 2015)’. Advances in Life Course Research, no. 100413. https://doi.org/10.1016/j.alcr.2021.100413.
+google-scholar: true
+links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://doi.org/10.1016/j.alcr.2021.100413"
+img: "fig.png"
+---
+
+**Abstract** 
+
+::: {layout-ncol=2}
+
+In this paper, we investigate how the diffusion of dual-earner couples has affected aggregate levels of inequality in Brazil. More specifically, we analyze trends in the association between spouses’ earnings and assess their implications for earnings inequality among couples from 1993 to 2015. For this purpose, we use log-linear models to dis-tinguish three components of the association between spouses’ earnings: a) the correlation between spouses’ earnings among dual-earner couples; b) the relationship between husbands’ earnings and wives’ labor force participation; and c) the proportion of dual-earner couples. Counterfactual simulations allow us to estimate how inequality would change if the trends in the association between spouses’ earnings and each of its components had been different. We show that changes in the gradient of wives’ employment and compositional effects related to the increasing prevalence of dual-earner couples contributed to limit the decline in inequality over the studied period.
+
+
+![](fig.png)
+:::

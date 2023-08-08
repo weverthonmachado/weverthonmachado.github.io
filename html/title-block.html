@@ -1,0 +1,31 @@
+<header id="title-block-header"
+    class="quarto-title-block research default$if(quarto-template-params.banner-header-class)$ $quarto-template-params.banner-header-class$$endif$">
+    <div class="quarto-title">
+        <div class="quarto-title column-body">
+            <h1 class="title">$title$</h1>
+            $if(subtitle)$
+            <p class="subtitle lead">$subtitle$</p>
+            $endif$
+        </div>
+    </div>
+    
+    $if(reference)$
+      <div class="publication-reference">
+      $reference$
+      <br>
+      $if(links)$
+        $for(links)$
+        <a href="$links.url$"> $links.icon2$ $links.text$ &nbsp;</a>
+        $endfor$
+      $endif$
+      </div>
+    $endif$
+
+    <!--$title-metadata.html()$-->
+</header>
+
+
+
+
+
+

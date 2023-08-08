@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Weverthon Machado"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: CV
+        file: files/cv-wm.pdf
+      - text: Research
+        file: research/index.qmd
+
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+

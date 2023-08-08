@@ -1,0 +1,7 @@
+date-format: "MMMM YYYY"
+fig-cap-location: margin
+appendix-style: none
+format:
+  html:
+    template-partials:
+      - ../html/title-block.html

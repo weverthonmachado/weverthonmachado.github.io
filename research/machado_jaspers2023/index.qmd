@@ -6,7 +6,7 @@ author:
   - name: Eva Jaspers
 doi: "10.15195/v10.a14"
 reference: |
-  Machado, Weverthon, and Eva Jaspers. 2023. ‘Money, Birth, Gender: Explaining Unequal Earnings Trajectories Following Parenthood’. Sociological Science 10: 429–53. https://doi.org/10.15195/v10.a14.
+  Machado, Weverthon, and Eva Jaspers. 2023. ‘Money, Birth, Gender: Explaining Unequal Earnings Trajectories Following Parenthood’. *Sociological Science* 10: 429–53. [https://doi.org/10.15195/v10.a14](https://doi.org/10.15195/v10.a14).
 links: 
   - text: PDF
     icon: fa-solid fa-file-lines

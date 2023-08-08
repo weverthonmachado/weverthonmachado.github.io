@@ -12,6 +12,9 @@ website:
         file: files/cv-wm.pdf
       - text: Research
         file: research/index.qmd
+  google-analytics: 
+    tracking-id: "G-LTHR65D61V"
+    storage: "none" 
 
 
 format:

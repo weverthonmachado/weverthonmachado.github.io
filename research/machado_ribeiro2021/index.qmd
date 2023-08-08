@@ -6,7 +6,7 @@ author:
   - name: Carlos Costa Ribeiro
 doi: "10.1016/j.alcr.2021.100413"
 reference: | 
- Machado, Weverthon, and Carlos Costa Ribeiro. 2021. ‘The Association between Spouses’ Earnings and Trends in Income Inequality in Brazil (1993 – 2015)’. *Advances in Life Course Research*, no. 100413. [https://doi.org/10.1016/j.alcr.2021.100413](https://doi.org/10.1016/j.alcr.2021.100413).
+  Machado, Weverthon, and Carlos Costa Ribeiro. 2021. ‘The Association between Spouses’ Earnings and Trends in Income Inequality in Brazil (1993 – 2015)’. <i>Advances in Life Course Research</i>, no. 100413. <a href="https://doi.org/10.1016/j.alcr.2021.100413">https://doi.org/10.1016/j.alcr.2021.100413</a>
 google-scholar: true
 links: 
   - text: PDF

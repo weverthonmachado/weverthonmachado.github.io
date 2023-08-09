@@ -8,3 +8,8 @@
 ul.project-links {
         margin-bottom: 0;
 }
+
+a {
+        overflow-wrap: break-word;
+}
+

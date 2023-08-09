@@ -12,7 +12,7 @@ links:
   - text: PDF
     icon: fa-solid fa-file-lines
     icon2: "{{< fa file-lines >}}"
-    url: "./MachadoRibeiro2021_accepted_version.pdf"
+    url: "/files/MachadoRibeiro2021_accepted_version.pdf"
 img: "fig.png"
 ---
 

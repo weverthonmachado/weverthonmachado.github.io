@@ -12,6 +12,8 @@ title: "Home"
 [{{< ai google-scholar size=xl >}}](https://scholar.google.com/citations?user=miJiVQcAAAAJ&hl=en)
 [{{< fa brands twitter size=xl >}}](https://twitter.com/weverthonbm)
 [{{< fa brands mastodon size=xl >}}](https://sciences.social/@weverthon) 
+[{{< fa cloud size=xl >}}](https://bsky.app/profile/weverthon.bsky.social) 
+
 
 :::
 

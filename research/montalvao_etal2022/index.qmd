@@ -17,7 +17,7 @@ links:
   - text: PDF
     icon: fa-solid fa-file-lines
     icon2: "{{< fa file-lines >}}"
-    url: "https://doi.org/10.4324/9781003229384-16"
+    url: "/files/Montalvao-etal2022_accepted_version.pdf"
 img: "fig.png"
 ---
 

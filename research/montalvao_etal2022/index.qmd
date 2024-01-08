@@ -10,6 +10,7 @@ citation:
   type: chapter
   container-title: "Reclaiming Public Universities: Comparative Reflections for Reforms"
   editor: Manisha Priyam
+  pdf-url: "https://weverthon.com/files/Montalvao-etal2022_accepted_version.pdf"
 reference: | 
   Mont’Alvao, Arnaldo, Weverthon Machado, and Carlos A. Costa Ribeiro. 2022. ‘Stratification in Brazilian Higher Education’. In <i>Reclaiming Public Universities</i>, by Manisha Priyam, 1st ed., 255–69. Routledge. <a href="https://doi.org/10.4324/9781003229384-16">https://doi.org/10.4324/9781003229384-16</a>
 google-scholar: true

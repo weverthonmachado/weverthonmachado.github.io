@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Weverthon Machado"
-  site-url: 'https://weverthon.com'
+  site-url: 'https://www.weverthon.com'
   navbar:
     left:
       - href: index.qmd

@@ -1,6 +1,6 @@
 ---
-title: "Money, childbearing, gender: explaining within-couple inequality after parenthood"
-date: 2023-04-01
+title: "Money, Birth, Gender: Explaining Unequal Earnings Trajectories Following Parenthood"
+date: 2023-05-17
 author:
   - name: Weverthon Machado
   - name: Eva Jaspers

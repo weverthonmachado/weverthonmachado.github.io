@@ -1,6 +1,16 @@
 - 
   reference: |
-    Miranda, Pedro, Priscila Koeller, Graziela Ferrero Zucoloto, Weverthon Machado, and Fernanda De Negri. 2020. ‘Aspectos socioeconômicos da Covid-19: o que dizem os dados do Município do Rio de Janeiro?’ <i>Nota Técnica IPEA/DISET</i>, no. 72 (July).
+    Ribeiro, Carlos Antonio Costa, and Weverthon Machado. 2018. ‘Rendimento Do Trabalho Das Esposas e Tendências Da Desigualdade de Renda No Brasil (1992-2014)’. <i>Dados</i> 61 (1): 103–35. <a href="https://doi.org/10.1590/001152582018148">https://doi.org/10.1590/001152582018148</a>
+  date: 2018-03
+  links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://www.scielo.br/j/dados/a/x5gv43gPkXrkGMwSLQrFw8J/?format=pdf&lang=pt"
+
+- 
+  reference: |
+    Miranda, Pedro, Priscila Koeller, Graziela Ferrero Zucoloto, Weverthon Machado, and Fernanda De Negri. 2020. ‘Aspectos socioeconômicos da Covid-19: o que dizem os dados do Município do Rio de Janeiro?’ <i>Nota Técnica IPEA/DISET</i>, no. 72.
   date: 2020-07
   links: 
   - text: PDF
@@ -10,11 +20,29 @@
 
 - 
   reference: |
-    Ribeiro, Carlos Antonio Costa, and Weverthon Machado. 2018. ‘Rendimento Do Trabalho Das Esposas e Tendências Da Desigualdade de Renda No Brasil (1992-2014)’. <i>Dados</i> 61 (1): 103–35. <a href="https://doi.org/10.1590/001152582018148">https://doi.org/10.1590/001152582018148</a>
-  date: 2018-03
+    De Negri, Fernanda, Weverthon Machado, and Eric Jardim Cavalcante. 2023. ‘Crescimento dos estabelecimentos evangélicos no Brasil nas últimas décadas.’ <i>Nota Técnica IPEA/DISET</i>, no. 123.
+  date: 2023-01
   links: 
   - text: PDF
     icon: fa-solid fa-file-lines
     icon2: "{{< fa file-lines >}}"
-    url: "https://www.scielo.br/j/dados/a/x5gv43gPkXrkGMwSLQrFw8J/?format=pdf&lang=pt"
+    url: "https://repositorio.ipea.gov.br/bitstream/11058/12605/1/NT_123_Diset_crescimento_dos_estabelecimentos.pdf"
+
+
+- 
+  reference: |
+    Stückradt, Katharina, Eva Jaspers, Ruben Van Gaalen, and Weverthon Machado. 2024. ‘Parents’ Hourly Wages in Female Same-Sex and Different-Sex Couples: The Role of Partner’s Gender and Employers’. <i>Journal of Family Research</i> 36:66–84. <a href="https://doi.org/10.20377/jfr-960">https://doi.org/10.20377/jfr-960</a>
+  date: 2024-03
+  links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/960/766"
+  - text: Replication package
+    icon: fa-solid fa-code
+    icon2: "{{< fa code >}}"
+    url: "https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/960/767"
+
+
+
 

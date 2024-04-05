@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.weverthon.com/index.html</loc>
-    <lastmod>2024-03-21T10:47:01.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.weverthon.com/research/index.html</loc>
-    <lastmod>2024-03-21T10:47:02.432Z</lastmod>
+    <loc>https://www.weverthon.com/research/montalvao_etal2022/index.html</loc>
+    <lastmod>2024-01-08T10:52:01.475Z</lastmod>
   </url>
   <url>
     <loc>https://www.weverthon.com/research/machado_jaspers2023/index.html</loc>
-    <lastmod>2024-03-21T10:47:03.094Z</lastmod>
+    <lastmod>2024-01-08T10:39:18.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.weverthon.com/index.html</loc>
+    <lastmod>2024-04-04T13:39:21.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.weverthon.com/research/index.html</loc>
+    <lastmod>2023-08-08T17:34:31.769Z</lastmod>
   </url>
   <url>
     <loc>https://www.weverthon.com/research/machado_ribeiro2021/index.html</loc>
-    <lastmod>2024-03-21T10:47:03.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.weverthon.com/research/montalvao_etal2022/index.html</loc>
-    <lastmod>2024-03-21T10:47:04.391Z</lastmod>
+    <lastmod>2024-01-08T10:51:55.884Z</lastmod>
   </url>
 </urlset>

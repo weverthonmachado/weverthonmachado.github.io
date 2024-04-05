@@ -6482,6 +6482,10 @@ readers do not read off random characters that represent icons */
 
 .fa-blogger-b:before {
   content: "\f37d"; }
+  
+.fa-bluesky:before {
+  content: "\e671"; }
+
 
 .fa-bluetooth:before {
   content: "\f293"; }

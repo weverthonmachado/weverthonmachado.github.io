@@ -2,30 +2,27 @@
 title: "Home"
 ---
 
-:::: {.columns}
+::: {.group}
 
-::: {.column width="30%"}
+:::{.left}
+
 ![](/files/profile.jpg){fig-align="right"}
-
 
 [{{< fa envelope size=xl >}}](mailto:w.barbosamachado@uu.nl) 
 [{{< ai google-scholar size=xl >}}](https://scholar.google.com/citations?user=miJiVQcAAAAJ&hl=en)
 [{{< fa brands twitter size=xl >}}](https://twitter.com/weverthonbm)
 [{{< fa brands bluesky size=lg >}}](https://bsky.app/profile/weverthon.bsky.social) 
 
-
 :::
 
-::: {.column width="5%"}
-:::
+::: {.right}
 
-::: {.column}
 I'm a sociologist interested in all the ways families are connected to inequality. Currently, I'm a postdoctoral researcher in the [Department of Sociology](https://www.uu.nl/en/organisation/sociology) at Utrecht University. 
 
 My research interests lie mainly in the areas of social stratification and family dynamics and include union formation and dissolution, marriage markets, the gendered division of labor and, more generally, the several forms of inequality between and within families.
 
 I hold a Ph.D. in Sociology from the [Institute of Social and Political Studies](http://www.iesp.uerj.br/en/) of the Rio de Janeiro State University. Before joining Utrecht University, I was a [Max Weber Fellow](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/alumni/Max-Weber-Alumni-Bio?id=31180) at the European University Institute. 
-:::
 
-::::
+:::
+:::
 

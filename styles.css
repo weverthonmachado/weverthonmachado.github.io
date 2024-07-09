@@ -13,3 +13,27 @@ a {
         overflow-wrap: break-word;
 }
 
+.left {
+  float: left;
+  width: 30%;
+}
+.right {
+  float: right;
+  width: 65%;
+}
+img {
+ max-width: 100%;
+ height: auto;
+}
+.group:after {
+   content:"";
+   display: table;
+   clear: both;
+}
+
+@media screen and (max-width: 480px) {
+    .left, .right {
+      float: none;
+      width: auto;
+}
+}

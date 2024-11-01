@@ -10,8 +10,7 @@ title: "Home"
 
 [{{< fa envelope size=xl >}}](mailto:w.barbosamachado@uu.nl) 
 [{{< ai google-scholar size=xl >}}](https://scholar.google.com/citations?user=miJiVQcAAAAJ&hl=en)
-[{{< fa brands twitter size=xl >}}](https://twitter.com/weverthonbm)
-[{{< fa brands bluesky size=lg >}}](https://bsky.app/profile/weverthon.bsky.social) 
+[{{< fa brands bluesky size=lg >}}](https://bsky.app/profile/weverthon.com) 
 
 :::
 

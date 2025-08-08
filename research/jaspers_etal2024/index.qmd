@@ -1,6 +1,6 @@
 ---
 title: "Doing Genders: Partner’s Gender and Labor Market Behavior"
-date: 2024-05-222
+date: 2024-05-22
 author:
   - name: Eva Jaspers
   - name: Deni Mazrekaj

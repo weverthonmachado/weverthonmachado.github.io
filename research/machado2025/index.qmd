@@ -1,0 +1,23 @@
+---
+title: "Trends in Educational Assortative Mating in Brazil: 1960-2015"
+date: 2025-08-05
+author:
+  - name: Weverthon Machado
+doi: "10.1016/j.rssm.2025.101088"
+reference: |
+  Machado, Weverthon. 2025. ‘Trends in Educational Assortative Mating in Brazil: 1960-2015’. <i>Research in Social Stratification and Mobility</i> 101088. <a href="https://doi.org/10.1016/j.rssm.2025.101088">https://doi.org/10.1016/j.rssm.2025.101088</a>
+links: 
+  - text: PDF
+    icon: fa-solid fa-file-lines
+    icon2: "{{< fa file-lines >}}"
+    url: "https://www.sciencedirect.com/science/article/pii/S0276562425000794/pdfft?md5=6971d472999f73f5d2dfd923b541470a&pid=1-s2.0-S0276562425000794-main.pdf"
+---
+
+**Abstract** 
+
+::: {layout-ncol=2}
+
+Using both census and survey data, this study analyzes educational assortative mating trends over half a century in Brazil. Odds of both overall and group-specific homogamy, as well as odds of crossing educational barriers, are estimated. Results suggest that, after four decades of continuous decline, overall homogamy increased in the first decade of this century. This rebound stems from a shift in the balance between long-standing opposite trends: increasing odds of intermarriage among lower educational levels and more homogamy at the top of the educational distribution. The findings are interpreted in the light of several social, economic and demographic changes that are relevant to union formation. Particularly, starting from a population with very low levels of schooling, educational expansion could initially have only a limited impact on partner markets. The link between schooling and partner choice in Brazil might have strengthened as the expansion reached upper secondary and higher education.
+
+![](fig.png)
+:::

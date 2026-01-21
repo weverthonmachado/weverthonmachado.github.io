@@ -1,0 +1,6 @@
+---
+title: "Resources"
+---
+
+- [ggreveal](https://www.weverthon.com/ggreveal/): R package to reveal a 'ggplot' incrementally
+- [xtable](https://www.weverthon.com/xtable/): Stata module to export table output to Excel. (*Note: I haven't used Stata regularly in years, so it is likely that newer versions have made this command obsolete.*)

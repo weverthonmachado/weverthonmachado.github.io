@@ -6,3 +6,5 @@
 /.quarto/
 /_site/
 prepare.R
+
+**/*.quarto_ipynb

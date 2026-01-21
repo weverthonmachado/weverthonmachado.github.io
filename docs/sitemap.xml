@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.weverthon.com/research/montalvao_etal2022/index.html</loc>
-    <lastmod>2024-01-08T10:52:01.000Z</lastmod>
+    <loc>https://www.weverthon.com/resources/index.html</loc>
+    <lastmod>2026-01-21T17:07:33.706Z</lastmod>
   </url>
   <url>
-    <loc>https://www.weverthon.com/research/machado_jaspers2023/index.html</loc>
-    <lastmod>2024-01-08T10:39:18.000Z</lastmod>
+    <loc>https://www.weverthon.com/research/machado_ribeiro2021/index.html</loc>
+    <lastmod>2024-01-08T10:51:55.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.weverthon.com/research/jaspers_etal2024/index.html</loc>
-    <lastmod>2025-08-08T21:12:18.976Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.weverthon.com/index.html</loc>
-    <lastmod>2025-07-04T11:44:24.000Z</lastmod>
+    <loc>https://www.weverthon.com/research/machado2025/index.html</loc>
+    <lastmod>2025-08-08T21:12:04.000Z</lastmod>
   </url>
   <url>
     <loc>https://www.weverthon.com/research/index.html</loc>
     <lastmod>2023-08-08T17:34:31.000Z</lastmod>
   </url>
   <url>
-    <loc>https://www.weverthon.com/research/machado2025/index.html</loc>
-    <lastmod>2025-08-08T21:12:04.577Z</lastmod>
+    <loc>https://www.weverthon.com/index.html</loc>
+    <lastmod>2026-01-21T16:54:59.991Z</lastmod>
   </url>
   <url>
-    <loc>https://www.weverthon.com/research/machado_ribeiro2021/index.html</loc>
-    <lastmod>2024-01-08T10:51:55.000Z</lastmod>
+    <loc>https://www.weverthon.com/research/jaspers_etal2024/index.html</loc>
+    <lastmod>2025-08-08T21:12:18.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.weverthon.com/research/machado_jaspers2023/index.html</loc>
+    <lastmod>2024-01-08T10:39:18.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.weverthon.com/research/montalvao_etal2022/index.html</loc>
+    <lastmod>2024-01-08T10:52:01.000Z</lastmod>
   </url>
 </urlset>

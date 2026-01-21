@@ -8,7 +8,7 @@ title: "Home"
 
 ![](/files/profile.jpg){fig-align="right"}
 
-[{{< fa envelope size=xl >}}](mailto:w.barbosamachado@ru.nl) 
+[{{< fa envelope size=xl >}}](mailto:w.barbosamachado@uu.nl) 
 [{{< ai google-scholar size=xl >}}](https://scholar.google.com/citations?user=miJiVQcAAAAJ&hl=en)
 [{{< fa brands github size=lg >}}](https://github.com/weverthonmachado) 
 [{{< fa brands bluesky size=lg >}}](https://bsky.app/profile/weverthon.com) 
